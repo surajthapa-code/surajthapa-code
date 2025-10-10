@@ -12,12 +12,6 @@ A passionate Developer/Designer <br>currently working on front-end of a e-commer
 ![](https://nirzak-streak-stats.vercel.app/?user=surajthapa-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajthapa-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=surajthapa-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=surajthapa-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
