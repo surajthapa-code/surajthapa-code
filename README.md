@@ -1,5 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm suraj</h1>
-<h3 align="center">Front End Developer </h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suraj%20Thapa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front%20End%20Developer%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=surajthapa-code">
@@ -12,17 +11,12 @@
 ## 📌 About Me
 - Muscular Engineer
 - learning Full Stack Development
-- i am better than you think
-
-
-## 🧠 My Focus Areas
-- web development
-- Problem Solving
+- Do Hard Sh*t
 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=surajthapa-code&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="suraj's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=surajthapa-code&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Suraj Thapa's GitHub Trophies" />
 </p>
 
 
@@ -54,9 +48,6 @@
 
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=surajthapa-code)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-thapa-/">
@@ -76,16 +67,11 @@
   </a>
 </p>
 
-## 💬 Quote
-> do hard sh*t
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/suraj" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
