@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Suraj%20Thapa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Java%20Sript%20Developer%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm suraj Thapa</h1>
+<h3 align="center">java script developer </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=surajthapa-code">
@@ -14,10 +15,9 @@
 - Do Hard Sh*t
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=surajthapa-code&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Suraj Thapa's GitHub Trophies" />
-</p>
+## 🧠 My Focus Areas
+- web development
+- use AI for leverage
 
 
 ## 🛠️ Languages & Tools
@@ -35,7 +35,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
 
 </p>
 
@@ -50,7 +57,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-thapa-/">
+  <a href="https://www.linkedin.com/in/suraj-thapa-">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/Surajpathankot">
@@ -59,11 +66,8 @@
   <a href="https://www.youtube.com/@suraj_edit3">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:surajthapa7787@gmai.com">
+  <a href="mailto:surajthapa7787@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://suraj">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
@@ -74,6 +78,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
