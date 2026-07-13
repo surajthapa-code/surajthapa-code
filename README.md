@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [surajthapa7787@gmail.com](mailto:surajthapa7787@gmail.com)
-* 🧠  I'm currently learning Backend Development
+* 🧠  I'm currently learning Full-Stack Web Development
 * 💬  Ask me about I do hard stuff
 
 <p align="left">
