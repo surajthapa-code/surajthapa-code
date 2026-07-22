@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-I am a Software Development Engineer, people say i am mad
+I am a Software Development Engineer,  I write Logics
 
 ### Core Tech Stack
 * **Languages:** TypeScript, JavaScript, Python, C++, Java, HTML5, CSS3
