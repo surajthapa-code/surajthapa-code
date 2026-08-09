@@ -3,7 +3,7 @@
 # Suraj Thapa
 ### Software Development Engineer
 
-[LinkedIn](https://www.linkedin.com/in/suraj-thapa-/) | [Instagram](https://www.instagram.com/irl_suraj/) | [X (Twitter)](https://x.com/codexsurajj)  | surajthapa7787@gmail.com
+[LinkedIn](https://www.linkedin.com/in/suraj-thapa-/) | [Instagram](https://www.instagram.com/irl_suraj/) | [X (Twitter)](https://x.com/surajxcoder)  | surajthapa7787@gmail.com
 
 </div>
 
