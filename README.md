@@ -13,10 +13,10 @@
 I am a Software Development Engineer,  I write Logics
 
 ### Core Tech Stack
-* **Languages:** TypeScript, JavaScript, Python, C++, Java, HTML5, CSS3
+* **Languages:** TypeScript, JavaScript, HTML5, CSS3
 * **Frontend:** React, Next.js (Vercel), TailwindCSS, React Router, Vite, React Hook Form
 * **Backend & State:** Node.js, Redux, React Query
-* **Databases & ORM:** MongoDB, MySQL
+* **Databases & ORM:** MongoDB, Postgress
 * **Testing & Tools:** Vitest, Git, GitHub, Figma, Canva, Netlify
 
 ---
