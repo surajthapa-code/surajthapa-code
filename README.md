@@ -1,7 +1,7 @@
 <div align="center">
 
 # Suraj Thapa
-### Frontend Engineer
+### Fullstack Engineer
 
 [LinkedIn](https://www.linkedin.com/in/suraj-thapa-/) | [Instagram](https://www.instagram.com/irl_suraj/) | [X (Twitter)](https://x.com/surajxcoder)  | surajthapa7787@gmail.com
 
